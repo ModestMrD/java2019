@@ -1,0 +1,24 @@
+Alt+Insert 生成代码(如get,set方法,构造函数等)  
+psvm 生成main方法
+Ctr+shift+U 大小写转化  
+ALT+回车    导包,自动修正 
+CTRL+ALT+L  格式化代码  
+CTRL+ALT+O  优化导入的类和包  
+CTRL+P   方法参数提示  
+Shift+F6  重命名 (包、类、方法、变量、甚至注释等) 
+Ctrl+Alt+V 接收返回值
+Ctrl+N   查找类 
+Alt+7 显示当前类中所有的属性和方法
+F4   查找变量来源  
+Ctrl+W 选中代码，连续按会扩大选中范围 
+F2 高亮错误或警告快速定位 
+Ctrl+Shift+上下键  上下移动代码 
+Ctrl+X 删除行 
+Ctrl+R 页面查找替换
+Ctrl+D 复制行 
+Ctrl+/ 或 Ctrl+Shift+/  注释（// 或者/*...*/ ） 
+Ctrl+H 显示类结构图 
+Alt+1 快速打开或隐藏工程面板 
+CTRL+Z   倒退(撤销) 
+CTRL+SHIFT+Z  向前(取消撤销) 
+Ctrl+~，切换方案（界面外观、代码风格、快捷键映射等菜单） 
